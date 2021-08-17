@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-anogwih-0b332316a/](https://www.linkedin.com/in/victor-anogwih-0b332316a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-anogwih-0b332316a/](https://www.linkedin.com/in/victor-anogwih-0b332316a/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Zarvich OSH-green)](https://www.zarvichosh.com)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anogwih Victor-yellow)](https://stackoverflow.com/users/16682808/Victor Anogwih-)
 
@@ -25,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=vicspider2001&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vicspider2001/vicspider2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
