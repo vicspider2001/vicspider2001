@@ -6,7 +6,7 @@
 
 My name is Victor Anogwih
 I am a Full Stack Web Development Intern with Edureka
-The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), RouterOs Administrator(Mikrotik),database(MongoDB,cassendra,Mysql)
+The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), RouterOs Administrator(Mikrotik),database(MongoDB,Mysql)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vicspider2001/count.svg)
@@ -25,7 +25,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vicspider2001/vicspider2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
