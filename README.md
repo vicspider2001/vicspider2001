@@ -9,12 +9,12 @@ I am a Full Stack Web Development Intern with Edureka
 The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), RouterOs Administrator(Mikrotik),database(MongoDB,cassendra,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vicspider2001/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vicspider2001&column=7"/>
   </a>
 </div>
 
