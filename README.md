@@ -5,16 +5,16 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Victor-yellow)](https://stackoverflow.com/users/16682808/anogwih-victor)
 
 My name is Victor Anogwih
-I am a Full Stack Web Development Intern with Edureka
-The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), RouterOs Administrator(Mikrotik),database(MongoDB,Mysql), Graphic Design using Adobe firewall and Adobe Photoshop
+I am a Full Stack Web Development Engineer I did my training with Edureka in India.
+The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using NodeJs and ExpressJs, front-end development ReactJs and Database with MongoDb I am also very vast in systems Networking and have more than 5 years experience in  it. I can configure microtik RouterOs. I do Graphic Design using Adobe firewall and Adobe Photoshop.
 
-I also have great skills in developing SEO Content. I am a good writer and have the following website projects to show for it. These websites were designed by me and all content developed by me. I am also working as an intern with Edureka, a world standard online ICT training school. I am in a training to become a Full Stack Web Developer which I beleive has already taken my skills to a global industry standard. Please my projects below:
+I also have great skills in developing SEO Content. I am a good writer and have the following website projects to show for it. These websites were designed by me and all content developed by me. Please my projects below:
 
 https://www.butterflygardensuites.com.ng/
-http://www.deglenhotel.com/
+http://www.royalcontinentalhotelsng.com/
 https://www.demajesticgarden.com/
 https://www.mallofdubailtd.com/
-https://www.mallofdubailtd.com/
+zarvich OSH (Hotel Management App)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vicspider2001/count.svg)
