@@ -6,15 +6,19 @@
 
 My name is Victor Anogwih
 I am a Full Stack Web Development Engineer I did my training with Edureka in India.
-The deployment of apps across multiple devices has always been very important to me. I have worked with a team of great developers to develop a Hotel Management Solution. I have a wide range of skills that include back-end development using NodeJs and ExpressJs, front-end development ReactJs and Database with MongoDb I am also very vast in systems Networking and have more than 5 years experience in  it. I can configure microtik RouterOs. I do Graphic Design using Adobe firewall and Adobe Photoshop.
+The deployment of apps across multiple devices has always been very important to me. I have combined new technologies using MERN Full Stack(MongoDb, ExpressJS, ReactJS and NodeJS) to develop Zarvich Hotel Management Solution. Zarvich Hotel Management is a hybrid system and a cross-platform system developed for hotels that want to use devices like android tablets, iPads, iPhones, Laptops and Desktop PCs for their operations. Zarvich Hotel Management Solution can also integrate your existing hotel website to your Zarvich Hotel Software. We provide Api for and we build new websites as well.
 
-I also have great skills in developing SEO Content. I am a good writer and have the following website projects to show for it. These websites were designed by me and all content developed by me. Please my projects below:
+As as full stack developer, I also have a wide range of skills that include systems Networking, LAN, WLAN deployment and I have more than 5 years experience in  it. I can configure microtik RouterOs, Remote CCTV View and I do Graphic Design using Adobe firewall and Adobe Photoshop.
+
+I also have great skills in developing SEO Content. I am a good writer and have the following website projects to show for it. These websites were designed by me and all content developed by me. Please see my projects below:
 
 https://www.butterflygardensuites.com.ng/
 http://www.royalcontinentalhotelsng.com/
 https://www.demajesticgarden.com/
 https://www.mallofdubailtd.com/
-zarvich OSH (Hotel Management App)
+https://www.annex.newtonparkhotels.com/
+https://www.main.newtonparkhotels.com/
+Zarvich Hotel Management Solution (Call or whatsapp +234 803 590 5421 to request a demo)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vicspider2001/count.svg)
