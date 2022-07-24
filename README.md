@@ -18,6 +18,7 @@ https://www.demajesticgarden.com/
 https://www.mallofdubailtd.com/
 https://www.annex.newtonparkhotels.com/
 https://www.main.newtonparkhotels.com/
+https://www.myzarvich.netlify.app
 Zarvich Hotel Management Solution (Call or whatsapp +234 803 590 5421 to request a demo)
 
 
