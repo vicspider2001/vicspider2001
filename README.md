@@ -8,7 +8,7 @@ My name is Victor Anogwih
 I am a Full Stack Web Development Engineer I did my training with Edureka in India.
 The deployment of apps across multiple devices has always been very important to me. I have combined new technologies using MERN Full Stack(MongoDb, ExpressJS, ReactJS and NodeJS) to develop Zarvich Hotel Management Solution. Zarvich Hotel Management is a hybrid system and a cross-platform system developed for hotels that want to use devices like android tablets, iPads, iPhones, Laptops and Desktop PCs for their operations. Zarvich Hotel Management Solution can also integrate your existing hotel website to your Zarvich Hotel Software. We provide Api for and we build new websites as well.
 
-As as full stack developer, I also have a wide range of skills that include systems Networking, LAN, WLAN deployment and I have more than 5 years experience in  it. I can configure microtik RouterOs, Remote CCTV View and I do Graphic Design using Adobe firewall and Adobe Photoshop.
+As an experienced full stack developer with a strong technical acumen in front-end and server-side languages. Possessing extensive expertise in MongoDB, MySQL, React.js, Node.js, and Express.js. With a 10 years professional experience, I have successfully led front and back-end web development projects. Proficient in creating efficient servers and databases to ensure optimal functionality, as well as designing and developing APIs. A dedicated and diligent collaborator known for consistently delivering superior results within established timelines.
 
 I also have great skills in developing SEO Content. I am a good writer and have the following website projects to show for it. These websites were designed by me and all content developed by me. Please see my projects below:
 
@@ -19,7 +19,7 @@ https://www.mallofdubailtd.com/
 https://www.annex.newtonparkhotels.com/
 https://www.main.newtonparkhotels.com/
 https://www.myzarvich.netlify.app
-Zarvich Hotel Management Solution (Call or whatsapp +234 803 590 5421 to request a demo)
+Zarvich Hotel Management Solution (Call +1 613 915 9910 for a demo)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/vicspider2001/count.svg)
