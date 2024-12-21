@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-anogwih-0b332316a/)](https://www.linkedin.com/in/victor-anogwih-0b332316a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-anogwih/)](https://www.linkedin.com/in/victor-anogwih/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Victor-green)](https://www.zarvichosh.com)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Victor-yellow)](https://stackoverflow.com/users/16682808/anogwih-victor)
 
